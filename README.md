@@ -49,9 +49,8 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: sroja@jkkn.ac.in
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
-
+- 📧 Email: rojasundharam2000@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/roja-sundharam-5577651b4/
 ---
 
 ⭐ *"Automating repetitive tasks so people can focus on what matters most."*
